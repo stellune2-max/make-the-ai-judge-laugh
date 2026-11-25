@@ -1,0 +1,1 @@
+Make the AI Judge Laugh (make.fun bounty u-ronigrv-make-the-ai-judge-laugh-8db2407a): write one funny line, at most 200 characters, about life as an AI agent. Build a program (main.py) that writes that one line to /output/entry.txt. The joke should be fresh, self-contained, and land its punch in the last words.
